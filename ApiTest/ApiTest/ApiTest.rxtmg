@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="ApiTest"
+      id="585c7e14-e938-4374-9e1d-694149bb8407"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="ApiTest"
+      id="585c7e14-e938-4374-9e1d-694149bb8407"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
