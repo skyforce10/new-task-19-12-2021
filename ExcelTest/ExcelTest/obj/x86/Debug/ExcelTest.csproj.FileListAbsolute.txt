@@ -1,0 +1,13 @@
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\obj\x86\Debug\ExcelTest.csprojAssemblyReference.cache
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\obj\x86\Debug\ExcelTest.csproj.CoreCompileInputs.cache
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\ExcelTest.rxtmg
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\ExcelTest.rxtst
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\ExcelTest.exe.config
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\ExcelTest.xml
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\ExcelTest.exe
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\ExcelTest.pdb
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\obj\x86\Debug\ExcelTest.csproj.CopyComplete
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\obj\x86\Debug\ExcelTest.exe
+C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\obj\x86\Debug\ExcelTest.pdb

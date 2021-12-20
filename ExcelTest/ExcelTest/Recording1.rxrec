@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="24705efc-a2b1-4458-aa91-10cb6ce852ae"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="ExcelTest">
+	</codegen>
+	<variables>
+		<var
+		id="88c24ceb-07ee-483d-83a3-a9cbbeabb84d"
+		name="excel_testfile">
+			C:\ranorex_test\test1.xlsx
+		</var>
+	</variables>
+	<recorditems>
+		<userrecorditem
+		classname="Recording1"
+		enabled="True"
+		isexternaltestmethod="False"
+		methodname="openExcel"
+		namespace="ExcelTest"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<arguments
+			id="101b3fe8-4c36-42d7-8bce-d694a0f87d79">
+			</arguments>
+		</userrecorditem>
+	</recorditems>
+	<repository
+	id="cfa58c91-411d-4549-b4d3-661240c9b84f"
+	name="ExcelTestRepository"
+	relativepath="ExcelTestRepository.rxrep">
+		<codegen
+		classname="ExcelTestRepository"
+		namespace="ExcelTest">
+		</codegen>
+		<rootfolder
+		id="7a2ea189-087b-4c26-87e5-ff4bf683c945"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

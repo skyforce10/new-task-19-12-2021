@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3e618a39-e035-420c-867f-e043ae24d580"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="FetchDemoTst">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<userrecorditem
+		classname="Recording1"
+		enabled="True"
+		isexternaltestmethod="False"
+		methodname="FetchTreeView"
+		namespace="FetchDemoTst"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<arguments
+			id="cf06bbbd-1d6d-487e-89a7-21e9ce1fe35b">
+			</arguments>
+		</userrecorditem>
+	</recorditems>
+	<repository
+	id="3633add1-4da7-4446-804d-87177638974d"
+	name="FetchDemoTstRepository"
+	relativepath="FetchDemoTstRepository.rxrep">
+		<codegen
+		classname="FetchDemoTstRepository"
+		namespace="FetchDemoTst">
+		</codegen>
+		<rootfolder
+		id="e34a5d9d-21a2-41ba-bfec-7d75631840e1"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

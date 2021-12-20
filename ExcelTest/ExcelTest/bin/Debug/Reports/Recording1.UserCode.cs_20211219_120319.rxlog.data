@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="9.52s"
+		durationms="9515"
+		type="root"
+		rid="b728b6c6626a89a"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="skynete"
+		rxversion="10.1.0.0"
+		host="SKYEYE"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="ar-LB"
+		screenresolution="1366x768"
+		timestamp="19/12/2021 12:03:23 PM"
+		timestampiso="2021-12-19T10:03:23"
+		endtime="19/12/2021 12:03:32 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.351"
+			timeRelativeToTestModuleStartTime="00:05.351"
+			timeWallClock="12:03:28"
+			time="00:05.351"
+			level="Info"
+			category="User">
+			<message>
+				mohamed
+			</message>
+			<metainfo
+				codefile="C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\Recording1.UserCode.cs"
+				codeline="45"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

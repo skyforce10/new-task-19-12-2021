@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="5.27s"
+		durationms="5267"
+		type="root"
+		rid="1403058cb1fc434"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="skynete"
+		rxversion="10.1.0.0"
+		host="SKYEYE"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="ar-LB"
+		screenresolution="1366x768"
+		timestamp="19/12/2021 10:56:15 PM"
+		timestampiso="2021-12-19T20:56:15"
+		endtime="19/12/2021 10:56:20 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			The method or operation is not implemented.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.948"
+			timeRelativeToTestModuleStartTime="00:03.948"
+			timeWallClock="22:56:19"
+			time="00:03.948"
+			level="Warn"
+			category="Data"
+			errimg="images_Recordin_176d73d1\Recordin_176d73d1_97363010_trace.jpg"
+			errthumb="images_Recordin_176d73d1\Recordin_176d73d1_97363010_trace_thumb.jpg">
+			<message>
+				The following module variables are not bound to a data column:<br/>excel_testfile
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.174"
+			timeRelativeToTestModuleStartTime="00:05.174"
+			timeWallClock="22:56:20"
+			time="00:05.174"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_176d73d1\Recordin_176d73d1_71134a7c_trace.jpg"
+			errthumb="images_Recordin_176d73d1\Recordin_176d73d1_71134a7c_trace_thumb.jpg">
+			<message>
+				The method or operation is not implemented.
+			</message>
+			<metainfo
+				stacktrace="   at ExcelTest.Recording1.fetchTree() in C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\Recording1.UserCode.cs:line 47
+   at ExcelTest.Recording1.Ranorex.Core.Testing.ITestModule.Run() in C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\Recording1.cs:line 96
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\Recording1.UserCode.cs"
+				codeline="47"
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

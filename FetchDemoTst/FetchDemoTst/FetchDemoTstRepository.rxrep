@@ -1,0 +1,62 @@
+﻿<repository
+id="3633add1-4da7-4446-804d-87177638974d"
+name="FetchDemoTstRepository">
+	<codegen
+	classname="FetchDemoTstRepository"
+	namespace="FetchDemoTst">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="e34a5d9d-21a2-41ba-bfec-7d75631840e1"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="ff6d3e1e-05a1-44ee-acf2-7e1207073251"
+		isrooted="True"
+		name="RxMainFrame"
+		refpath="/form[@controlname='RxMainFrame']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="table,control,nativewindow"
+			capname="table"
+			id="d5d97931-ab0a-4a85-bc10-34da7e0b9847"
+			name="DataGridView1"
+			refimgid="e813178e-73ce-4be2-99d1-9ed1d183d7e7"
+			refpath="/form[@controlname='RxMainFrame']/tabpagelist[@controlname='RxTabcontrol']/tabpage[@controlname='RxTabUIElements']/table[@controlname='dataGridView1']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/table[@controlname='dataGridView1']
+			</item>
+			<item
+			addcaps="tree,accessible"
+			capname="tree"
+			id="7903a089-b953-4584-8785-fd9439fccedd"
+			name="TreeView"
+			refimgid="6def2231-2988-441c-98a4-1acb518771dc"
+			refpath="/form[@controlname='RxMainFrame']/tabpagelist[@controlname='RxTabcontrol']/tabpage[@controlname='RxTabUIElements']/tree[@controlname='treTestTreeView']/tree[@accessiblename='Tree view']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/?/?/tree[@accessiblename='Tree view']
+			</item>
+			<basepath>
+				/form[@controlname='RxMainFrame']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAB9SURBVDhPY0AGwcHBi4D4NxD/x4NB8r+DgoJa
+odogACj4BqQAyiUdwDQ/YBfa+oBN6CA+DNaADmAGAAlGIGbCh8Ea0AHIACD+B8RficFQbQgAFAQa
+TjwABuI3KBMCSDEgICBAeNSAUQOwGgACIEOAEt8JYaC6H0AaaAADAwC5s5VutWbaWgAAAABJRU5E
+rkJggg==
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

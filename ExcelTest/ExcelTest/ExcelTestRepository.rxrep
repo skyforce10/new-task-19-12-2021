@@ -1,0 +1,25 @@
+﻿<repository
+id="cfa58c91-411d-4549-b4d3-661240c9b84f"
+name="ExcelTestRepository">
+	<codegen
+	classname="ExcelTestRepository"
+	namespace="ExcelTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="7a2ea189-087b-4c26-87e5-ff4bf683c945"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+		<var
+		id="00ba792b-f7f1-4c64-aad1-dbc517e2436a"
+		name="excel_testfile">
+			C:\ranorex_test\test1.xlsx
+		</var>
+	</variables>
+</repository>

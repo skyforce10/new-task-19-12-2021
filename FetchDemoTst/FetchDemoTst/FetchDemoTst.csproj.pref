@@ -1,0 +1,21 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Recording1.UserCode.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="FetchDemoTst.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Recording1.UserCode.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections">
+      <Element value="FetchDemoTst.Recording1.FetchTreeView()" />
+      <Element value="FetchDemoTst.Recording1.FetchTreeView()" />
+      <Element value="FetchDemoTst.Recording1.FetchDataTable()" />
+    </Array>
+  </Properties>
+</Properties>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="4.78s"
+		durationms="4784"
+		type="root"
+		rid="183c0b421c638b86"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="skynete"
+		rxversion="10.1.0.0"
+		host="SKYEYE"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="ar-LB"
+		screenresolution="1366x768"
+		timestamp="19/12/2021 12:30:28 PM"
+		timestampiso="2021-12-19T10:30:28"
+		endtime="19/12/2021 12:30:33 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Unable to cast object of type 'System.Double' to type 'System.String'.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.666"
+			timeRelativeToTestModuleStartTime="00:04.666"
+			timeWallClock="12:30:32"
+			time="00:04.666"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_a11e5c63\Recordin_a11e5c63_fb19408d_trace.jpg"
+			errthumb="images_Recordin_a11e5c63\Recordin_a11e5c63_fb19408d_trace_thumb.jpg">
+			<message>
+				Unable to cast object of type 'System.Double' to type 'System.String'.
+			</message>
+			<metainfo
+				stacktrace="   at ExcelTest.Recording1.openExcel() in C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\Recording1.UserCode.cs:line 60
+   at ExcelTest.Recording1.Ranorex.Core.Testing.ITestModule.Run() in C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\Recording1.cs:line 82
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\ExcelTest\ExcelTest\Recording1.UserCode.cs"
+				codeline="60"
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="9.65s"
+		durationms="9654"
+		type="root"
+		rid="2bf0ddc449255532"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="skynete"
+		rxversion="10.1.0.0"
+		host="SKYEYE"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="ar-LB"
+		screenresolution="1366x768"
+		timestamp="20/12/2021 01:37:56 PM"
+		timestampiso="2021-12-20T11:37:56"
+		endtime="20/12/2021 01:38:06 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.641"
+			timeRelativeToTestModuleStartTime="00:09.641"
+			timeWallClock="13:38:06"
+			time="00:09.641"
+			level="Info"
+			category="User">
+			<message>
+				John Public 38 male Project Management<br/>Mary Bach 26 female Sales<br/>Henry Rogers 29 male Support<br/>Thomas Bach 42 male Development<br/>Cindy Public 19 female Office<br/>Hanna Perry 48 female Management<br/>Will Thomas 32 male Support<br/>Nicole Wallace 38 female Testing
+			</message>
+			<metainfo
+				codefile="C:\Users\skynete\Documents\Ranorex\RanorexStudio Projects\FetchDemoTst\FetchDemoTst\Recording1.UserCode.cs"
+				codeline="51"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

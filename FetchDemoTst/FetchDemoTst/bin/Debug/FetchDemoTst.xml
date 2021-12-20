@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FetchDemoTst</name>
+    </assembly>
+    <members>
+        <member name="T:FetchDemoTst.CloseAUT">
+             <summary>
+            The CloseAUT recording.
+             </summary>
+        </member>
+        <member name="F:FetchDemoTst.CloseAUT.repo">
+            <summary>
+            Holds an instance of the FetchDemoTstRepository repository.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.CloseAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.CloseAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.CloseAUT.CloseAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable CloseAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.CloseAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:FetchDemoTst.CloseAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.CloseAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:FetchDemoTst.CloseAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:FetchDemoTst.FetchDemoTstRepository">
+            <summary>
+            The class representing the FetchDemoTstRepository element repository.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the FetchDemoTstRepository element repository.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.FetchDemoTstRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepository.RxMainFrame">
+            <summary>
+            The RxMainFrame folder.
+            </summary>
+        </member>
+        <member name="T:FetchDemoTst.FetchDemoTstRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder">
+            <summary>
+            The RxMainFrameAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxMainFrame  folder.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder.DataGridView1">
+            <summary>
+            The DataGridView1 item.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder.DataGridView1Info">
+            <summary>
+            The DataGridView1 item info.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder.TreeView">
+            <summary>
+            The TreeView item.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.FetchDemoTstRepositoryFolders.RxMainFrameAppFolder.TreeViewInfo">
+            <summary>
+            The TreeView item info.
+            </summary>
+        </member>
+        <member name="T:FetchDemoTst.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:FetchDemoTst.Recording1.repo">
+            <summary>
+            Holds an instance of the FetchDemoTstRepository repository.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:FetchDemoTst.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:FetchDemoTst.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:FetchDemoTst.StartAUT">
+             <summary>
+            The StartAUT recording.
+             </summary>
+        </member>
+        <member name="F:FetchDemoTst.StartAUT.repo">
+            <summary>
+            Holds an instance of the FetchDemoTstRepository repository.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.StartAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.StartAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:FetchDemoTst.StartAUT.StartAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable StartAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.StartAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:FetchDemoTst.StartAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:FetchDemoTst.StartAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:FetchDemoTst.StartAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>
